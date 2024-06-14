@@ -1,1 +1,1 @@
-# dotfiles-gratia
+# wip hyprland + ags rice
