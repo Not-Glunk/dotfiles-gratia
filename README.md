@@ -1,1 +1,1 @@
-# wip hyprland + ags rice
+# wip hyprland + ags dots
