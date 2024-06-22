@@ -91,7 +91,7 @@ const options = mkOptions(OPTIONS, {
         },
         launcher: {
             icon: {
-                colored: opt(ture),
+                colored: opt(true),
                 icon: opt(icon(distro.logo, icons.ui.search)),
             },
             label: {
