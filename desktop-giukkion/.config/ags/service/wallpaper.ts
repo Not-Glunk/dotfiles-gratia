@@ -52,7 +52,7 @@ class Wallpaper extends Service {
     async #fetchRandom() {
         const file = await sh([
             "sh", "-c",
-            "ls /home/giuk/Pictures/wallpapers/*.png | sort -R | tail -1"
+            "ls ~/Pictures/wallpapers/*.png | sort -R | tail -1"
         ]);
         
         this.#setWallpaper(file)
