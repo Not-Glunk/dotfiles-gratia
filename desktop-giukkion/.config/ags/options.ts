@@ -63,10 +63,10 @@ const options = mkOptions(OPTIONS, {
     },
 
     bar: {
-        flatButtons: opt(true),
+        flatButtons: opt(false),
         position: opt<"top" | "bottom">("top"),
         corners: opt(50),
-        transparent: opt(false),
+        transparent: opt(true),
         layout: {
             start: opt<Array<import("widget/bar/Bar").BarWidget>>([
                 "launcher",
@@ -82,22 +82,21 @@ const options = mkOptions(OPTIONS, {
                 "media",
                 "expander",
                 "systray",
-                //"colorpicker",
                 "screenrecord",
                 "pushtotalk",
-                "system",
                 "battery",
+                "system",
                 "powermenu",
             ]),
         },
         launcher: {
             icon: {
-                colored: opt(true),
+                colored: opt(ture),
                 icon: opt(icon(distro.logo, icons.ui.search)),
             },
             label: {
                 colored: opt(false),
-                label: opt(" Applications"),
+                label: opt(""),
             },
             action: opt(() => App.toggleWindow("launcher")),
         },
@@ -114,7 +113,7 @@ const options = mkOptions(OPTIONS, {
             low: opt(30),
         },
         workspaces: {
-            workspaces: opt(7),
+            workspaces: opt(10),
         },
         taskbar: {
             iconSize: opt(0),
@@ -170,7 +169,7 @@ const options = mkOptions(OPTIONS, {
 
     overview: {
         scale: opt(9),
-        workspaces: opt(7),
+        workspaces: opt(8),
         monochromeIcon: opt(true),
     },
 
@@ -238,7 +237,7 @@ const options = mkOptions(OPTIONS, {
     hyprland: {
         gaps: opt(2.4),
         inactiveBorder: opt("#282828"),
-        gapsWhenOnly: opt(false),
+        gapsWhenOnly: opt(true),
     },
 })
 
