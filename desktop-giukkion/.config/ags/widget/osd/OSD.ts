@@ -61,7 +61,7 @@ function MicrophoneMute() {
     })
 
     const revealer = Widget.Revealer({
-        transition: "slide_up",
+        transition: "slide_left",
         child: icon,
     })
 
