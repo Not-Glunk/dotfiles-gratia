@@ -7,7 +7,7 @@ import options from "options"
 const audio = await Service.import("audio")
 const { progress, microphone } = options.osd
 
-const DELAY = 2500
+const DELAY = 1500
 
 function OnScreenProgress(vertical: boolean) {
     const indicator = Widget.Icon({
