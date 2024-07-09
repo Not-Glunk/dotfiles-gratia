@@ -37,7 +37,7 @@ export default () => PopupWindow({
                     SysButton("logout", "Log Out"),
                     SysButton("lock", "Lock"),
                     SysButton("reboot", "Reboot"),
-                    SysButton("shutdown", "Shutdwon"),
+                    SysButton("shutdown", "Shutdown"),
                 ]
                 case "box": return [
                     Widget.Box(
