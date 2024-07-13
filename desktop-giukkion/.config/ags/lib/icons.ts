@@ -146,4 +146,7 @@ export default {
         dark: "dark-mode-symbolic",
         light: "light-mode-symbolic",
     },
+    caffeine: {
+        macchiato: "coffee-mug-symbolic",
+    }
 }
