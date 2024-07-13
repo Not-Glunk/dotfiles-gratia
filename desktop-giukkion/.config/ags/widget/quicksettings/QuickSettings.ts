@@ -14,6 +14,7 @@ import options from "options"
 
 import { BlueLight } from "./widgets/BlueLight"
 import { RandomWallpaper } from "./widgets/RandomWallpaper"
+import { Caffeine } from "./widgets/Caffeine"
 
 const { bar, quicksettings } = options
 const media = (await Service.import("mpris")).bind("players")
@@ -59,12 +60,13 @@ const Settings = () => Widget.Box({
             [WifiSelection, BluetoothDevices],
         ),
         Row(
-            [ProfileToggle, DarkModeToggle],
-            [ProfileSelector],
+            [BlueLight, DarkModeToggle],
         ),
-        Row([MicMute, DND]),
+        Row([DND, RandomWallpaper]),
 
         Row([BlueLight, RandomWallpaper]),
+
+        Row([Caffeine]),
 
         Widget.Box({
             visible: media.as(l => l.length > 0),
