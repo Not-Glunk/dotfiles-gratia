@@ -6,7 +6,7 @@
 # (fedora) enable hyprland copr
 dnf copr enable solopasha/hyprland
 # install packages
-dnf install hyprland hypridle hyprlock ags swww wofi dmenu cliphist swappy \
+dnf install hyprland hypridle hyprlock ags swww wofi dmenu cliphist swappy zsh-syntax-highlighting \
             fd-find scdoc cargo rustup \
             qt5ct qt6ct
 cargo install matugen
@@ -17,6 +17,11 @@ bunBinPath=$(which bun); cp $bunBinPath /usr/bin/bun
 cp ~/.local/bin/hyprshade /usr/bin/hyprshade
 cp ~/.cargo/bin/matugen /usr/bin/mategun
 sassBinPath=$(which sass); cp $sassBinPath /usr/bin/sass
+
+# zsh config (do NOT just run these)
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+cp ./desktop-giukkion/.config/zsh/.zshrc ~/.zshrc
+cp ./desktop-giukkion/.config/zsh/.p10k.zsh ~/.p10k.zsh
 
 # wayshot compile
 mkdir ~/git/wayshot
