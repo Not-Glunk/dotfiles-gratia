@@ -72,11 +72,15 @@ class Recorder extends Service {
             await sh(`wayshot -f ${file}`)
         }
         else {
+            await sh(`grimblast	--freeze copysave area ${file}`)
+
+            /*
             const size = await sh("slurp")
             if (!size)
                 return
 
             await sh(`wayshot -f ${file} -s "${size}"`)
+            */
         }
 
         bash(`wl-copy < ${file}`)
