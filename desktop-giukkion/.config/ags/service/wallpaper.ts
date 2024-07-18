@@ -2,15 +2,6 @@ import options from "options"
 import { dependencies, sh } from "lib/utils"
 
 export type Resolution = 1920 | 1366 | 3840
-export type Market =
-    | "random"
-    | "en-US"
-    | "ja-JP"
-    | "en-AU"
-    | "en-GB"
-    | "de-DE"
-    | "en-NZ"
-    | "en-CA"
 
 const WP = `${Utils.HOME}/.config/background.png`
 
