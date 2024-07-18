@@ -6,7 +6,7 @@
 # (fedora) enable hyprland copr
 dnf copr enable solopasha/hyprland
 # install packages
-dnf install hyprland hypridle hyprlock ags swww wofi dmenu cliphist swappy zsh-syntax-highlighting \
+dnf install hyprland hypridle hyprlock ags swww wofi dmenu cliphist slurp grimblast swappy zsh-syntax-highlighting \
             fd-find scdoc cargo rustup \
             qt5ct qt6ct
 cargo install matugen
