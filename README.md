@@ -1,4 +1,4 @@
-#  
+# wip hyprland+ags dotfiles  
 
 
 
