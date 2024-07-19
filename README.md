@@ -1,7 +1,8 @@
 # Dottos
 ### Preview
 
-![AAAAA](preview.mp4)
+![preview.webm](https://github.com/user-attachments/assets/1aab82b1-e9ab-4885-a88a-59ef3877d852)
+
 
 #### desktop vs thonkpad
 main difference, keybind layout
