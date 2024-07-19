@@ -1,6 +1,8 @@
 # Dottos
 ### Preview
-![AAAAA](preview.webm)
+
+![AAAAA](preview.mp4)
+
 #### desktop vs thonkpad
 main difference, keybind layout
 ![quick-pic]()
