@@ -70,7 +70,25 @@ Although it may be tempting to just run, it IS NOT an install script, and IT WIL
 
 ![meguWOAH](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/meguwoah-1_1920.png?raw=true)
 
+- [Orth](https://www.artstation.com/artwork/bevvr) depicting Made in Abyss
 
+![frame](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/mia-bg0_1920x1080.png?raw=true)
+
+- [Namnachi]() couldn't find original source :(
+
+![nanachi-in-the-light](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/mia-bg1_1920x1080.png?raw=true)
+
+- [Ido Front]() couldn't find original source :(
+
+![RUN-NANACHI](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/mia-bg2_1920x1080.png?raw=true)
+
+- bondordo from original promotional material of the Made in Abyss movie
+
+![prushka-sequence](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/mia-bg3_1920x1080.png?raw=true)
+
+- [nier rain](https://www.pixiv.net/en/artworks/95775855)
+
+![to-bE-or-not-to-Be](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/nier-rain_1920x1080.png?raw=true)
 
 </details>
 
