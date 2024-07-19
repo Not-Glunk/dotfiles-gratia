@@ -40,7 +40,7 @@ Although it may be tempting to just run, it IS NOT an install script, and IT WIL
 <details>
 <summary> Wallpaper Sauces </summary>
 - [sitting Bocchi](https://mobile.alphacoders.com/wallpapers/view/989558) (highly doubt that it is the original source, but its all i could get back to (I've adapted it to 1920x1080 myself))
-![saddo-boccho]([resources/wallpapers/bocchi-wallpaper-3.png](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/bocchi-wallpaper-3.png?raw=true))
+![saddo-boccho](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/bocchi-wallpaper-3.png?raw=true)
 </details>
 
 <details>
