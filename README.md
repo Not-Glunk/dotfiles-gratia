@@ -9,7 +9,8 @@ The main differences between the Desktop and Laptop configs can be found in the 
 
 <img src="https://github.com/user-attachments/assets/770789db-1b15-49b6-b3e4-ebebad961047" width="600">
 
-If you're going for a laptop set-up, you can just replicate the thonkpad config
+If you're going for a laptop set-up, you can just replicate the thonkpad config (check the known issues thoe)
+
 If you're going for a desktop set-up though, you are also most likely gonna want to switch the layout for the keybinds in `hyprland.conf` from colemak-dh to the default one
 
 
