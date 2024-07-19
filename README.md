@@ -8,6 +8,13 @@
 main difference, keybind layout
 ![quick-pic]()
 
+
+//tmp
+![2024-07-20_00-30-25](https://github.com/user-attachments/assets/0b99bfe4-8428-4a8b-8817-6dc686cf18cd)
+//tmp
+
+
+
 <details>
   
 <summary> "Installing" </summary>
