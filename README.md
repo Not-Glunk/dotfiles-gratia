@@ -6,13 +6,18 @@ main difference, keybind layout
 ![quick-pic]()
 
 <details>
-<summary> if you wish to replica </summary>
-giudalines
+  
+<summary> 'Installing' </summary>
+
+If you wish to replicate this set-up, you can follow the instructions written in the `giudalines.sh` file
+Although it may be tempting to just run, it IS NOT an install script, and IT WILL most likely break your system in one way or another (if it even launches that is)
+![uragirimono](giudalines.sh)
+
 </details>
 
 <details>
   
-<summary> Known Issues && to-do's </summary>
+<summary> Known Issues && To-Do's </summary>
 
 #### Known Issues
 - Powerprofiles Inverted
@@ -25,7 +30,7 @@ giudalines
 #### To-Do
 - (personal) scripts to automate nzxt fan curve and rgb + lights off when 'suspended'
 - (personal) vim config
-- make apps ran via ags launcher somehow not tied to ags
+- make apps ran via ags launcher not tied to ags
 - fix known issues
 
 </details>
