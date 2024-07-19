@@ -42,7 +42,35 @@ Although it may be tempting to just run, it IS NOT an install script, and IT WIL
   
 - [sitting Bocchi](https://mobile.alphacoders.com/wallpapers/view/989558) (highly doubt that it is the original source, but its all i could get back to (I've adapted it to 1920x1080 myself))
   
-![image](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/bocchi-wallpaper-3.png?raw=true)
+![saddo-boccho](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/bocchi-wallpaper-3.png?raw=true)
+
+- [Starry KonoSuba](https://www.youtube.com/watch?v=nPJhLiqv8Jc) from the final scene of KonoSupa's third opening | compressed since from youtube, waiting for proper creditless release
+
+![starry](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/compressed-ks3_1920x1080.png?raw=true)
+
+- [Frienrien](https://www.artstation.com/artwork/kQ3B1A?s=09)
+
+![must-smell-good](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/frienrien-bg_1920x1080.png?raw=true)
+
+- [Ephemeral](https://www.youtube.com/watch?v=Hbj3z8Db4Rk) no embed cuz file hosted on [gdrive](https://drive.google.com/file/d/1poLJj1TohS0AusefR-JXmVJ5Blu20fGj/view?usp=sharing) cuz too big for github | (edited loop)
+
+- [kitaid](https://www.pixiv.net/en/artworks/116220536)
+
+![kita-kitannn](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/kitaaaid_1920.png?raw=true)
+
+- [kessoku train](https://github.com/LoneWolf4713/seraphic.dotfiles/blob/main/Wallpapers/kk.mp4)
+
+![kk](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/kk.mp4?raw=true)
+
+- KonoSuba from KonoSuba's first (creditless) opening
+
+![home](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/konosuba_1920x1080.png?raw=true)
+
+- [STUNNING Megumin](https://www.pixiv.net/en/artworks/119915351)
+
+![meguWOAH](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/meguwoah-1_1920.png?raw=true)
+
+
 
 </details>
 
