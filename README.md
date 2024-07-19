@@ -12,6 +12,7 @@ main difference, keybind layout
 If you wish to replicate this set-up, you can follow the instructions written in the `giudalines.sh` file
 
 Although it may be tempting to just run, it IS NOT an install script, and IT WILL most likely break your system in one way or another (if it even launches that is): ![uragirimono](giudalines.sh)
+https://github.com/Not-Glunk/dotfiles-gratia/blob/a954e396296991dc2aaba3b85c9f198bf30f9961/giudalines.sh?plain=1
 
 </details>
 
