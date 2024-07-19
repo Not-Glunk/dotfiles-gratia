@@ -11,7 +11,9 @@ giudalines
 </details>
 
 <details>
+  
 <summary> Known Issues && to-do's </summary>
+
 #### Known Issues
 - Powerprofiles Inverted
 - Random Wallpaper is executed multiple times on thonkpad for some hellish reason
@@ -25,6 +27,7 @@ giudalines
 - (personal) vim config
 - make apps ran via ags launcher somehow not tied to ags
 - fix known issues
+
 </details>
 
 <details>
