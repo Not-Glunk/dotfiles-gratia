@@ -71,7 +71,7 @@ pro tip: a bunch of additional features and customization are hidden in `.config
 
 - [kessoku train](https://github.com/LoneWolf4713/seraphic.dotfiles/blob/main/Wallpapers/kk.mp4)
 
-![kk](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/resources/wallpapers/kk.mp4?raw=true)
+https://github.com/user-attachments/assets/1421ab35-15e1-47ac-87ec-c80de7117181
 
 - KonoSuba from KonoSuba's first (creditless) opening
 
