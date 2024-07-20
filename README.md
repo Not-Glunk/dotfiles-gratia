@@ -106,7 +106,7 @@ pro tip: a bunch of additional features and customization are hidden in `.config
 <details>
 
 
-<summary> Credits </summary>
+<summary> Credits, Thanks to: </summary>
 
 - [Aylur](https://github.com/Aylur) for the AGS [dotfiles](https://github.com/Aylur/dotfiles) from which i based my AGS config, and of course for [AGS](https://github.com/Aylur/ags) itself :D
 - [Spyder-0](https://github.com/Spyder-0) for the Cava [Color Gradient](https://github.com/Spyder-0/Cava-Config-File/blob/main/config)
