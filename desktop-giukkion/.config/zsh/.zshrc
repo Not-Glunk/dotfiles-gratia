@@ -58,7 +58,7 @@ alias fcl="fortune | cowsay | lolcat"
 #alias
 
 # syntax highlighting
-echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # auto suggestions
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
