@@ -18,6 +18,13 @@ cp ~/.local/bin/hyprshade /usr/bin/hyprshade
 cp ~/.cargo/bin/matugen /usr/bin/mategun
 sassBinPath=$(which sass); cp $sassBinPath /usr/bin/sass
 
+# hypr config (or choose laptop-thonkpad)
+cp -r ./desktop-giukkion/.config/hypr/* ~/.config/hypr/
+# ags config (or choose laptop-thonkpad)
+cp -r ./destkop-giukkion/.config/ags/* ~/.config/ags/ 
+# cava config (or choose laptop-thonkpad)
+cp -r ./desktop-giukkion/.config/cava/* ~/.config/cava/
+
 # zsh config (do NOT just run these)
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 cp ./desktop-giukkion/.config/zsh/.zshrc ~/.zshrc
