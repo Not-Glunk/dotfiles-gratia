@@ -18,14 +18,16 @@ const Player = (player: MprisPlayer) => {
     const cover = Widget.Box({
         class_name: "cover",
         vpack: "start",
+        
+       	// gotta find a	way to update on song change (if same artist it	doesnt update) ,, e.g. binding track_title
         css: Utils.merge([
-            player.bind("cover_path"),
+            //player.bind("track_title"),
             player.bind("track_cover_url"),
             media.coverSize.bind(),
-        ], (path, url, size) => `
+        ], (/*title, */url, size) => `
             min-width: ${size}px;
             min-height: ${size}px;
-            background-image: url('${path || url}');
+            background-image: url('${url}');
         `),
     })
 
