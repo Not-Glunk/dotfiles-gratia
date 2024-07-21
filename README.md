@@ -33,6 +33,7 @@ pro tip: a bunch of additional features and customization are hidden in `.config
 
 #### Known Issues
 - Powerprofiles are inverted ('Performance' limits the CPU, while 'Power Saver' lets it go nuts)
+- If a song from the same artist is played back to back, the cover art won't update. see [Media.ts](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/desktop-giukkion/.config/ags/widget/quicksettings/widgets/Media.ts)
 - Quicksettings Random Wallpaper is executed multiple times on thonkpad for some hellish reason
 - Selected Area Screenshot (`!full`) not sending notification unless a second is taken when using `grimblast` instead of `wayshot`
 - Push-To-Talk AGS bar widget not updating unless by direct triggering
