@@ -33,7 +33,7 @@ pro tip: a bunch of additional features and customization are hidden in `.config
 
 #### Known Issues
 - Powerprofiles are inverted ('Performance' limits the CPU, while 'Power Saver' lets it go nuts)
-- If a song from the same artist is played back to back, the cover art won't update. see [Media.ts](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/desktop-giukkion/.config/ags/widget/quicksettings/widgets/Media.ts)
+- If mupltiple songs from the same artist are played back to back, the cover art won't update. see [Media.ts](https://github.com/Not-Glunk/dotfiles-gratia/blob/main/desktop-giukkion/.config/ags/widget/quicksettings/widgets/Media.ts)
 - Quicksettings Random Wallpaper is executed multiple times on thonkpad for some hellish reason
 - Selected Area Screenshot (`!full`) not sending notification unless a second is taken when using `grimblast` instead of `wayshot`
 - Push-To-Talk AGS bar widget not updating unless by direct triggering
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/1421ab35-15e1-47ac-87ec-c80de7117181
 
 <summary> Credits, Thanks to: </summary>
 
-- [Aylur](https://github.com/Aylur) for the AGS [dotfiles](https://github.com/Aylur/dotfiles) from which i based my AGS config, and of course for [AGS](https://github.com/Aylur/ags) itself :D
+- [Aylur](https://github.com/Aylur) for the AGS [dotfiles](https://github.com/Aylur/dotfiles) off which i based my AGS config, and of course for [AGS](https://github.com/Aylur/ags) itself :D
 - [Spyder-0](https://github.com/Spyder-0) for the Cava [Color Gradient](https://github.com/Spyder-0/Cava-Config-File/blob/main/config)
 - [LoneWolf4713](https://github.com/LoneWolf4713) for editing the [Bocchi the Rock animated wallpaper](https://github.com/LoneWolf4713/seraphic.dotfiles/blob/main/Wallpapers/kk.mp4)
 - every other project (which you can most likely find in ![giudalines.sh](giudalines.sh)) :)
