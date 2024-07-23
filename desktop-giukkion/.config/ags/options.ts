@@ -176,7 +176,7 @@ const options = mkOptions(OPTIONS, {
     powermenu: {
         shutdown: opt("shutdown now"),
         reboot: opt("systemctl reboot"),
-        lock: opt("loginctl lock-session"),
+        lock: opt("hyprlock"),
         logout: opt("pkill Hyprland"),
         sleep: opt("systemctl suspend"),
 
