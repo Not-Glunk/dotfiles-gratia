@@ -41,6 +41,7 @@ pro tip: a bunch of additional features and customization are hidden in `.config
 - failed to find a way to set AGS qt env variable for dark/light theme switching (needed for software ran by the launcher)
 - Hyprlock not launching on nvidia (after update) ---> compile from source
 #### To-Do
+- (personal): voyager kontroll scripts!!
 - (personal): scripts to automate nzxt fan curve and rgb + lights off when 'suspended' ---> lights off ags quicksettings widget
 - (personal): vim config
 - make apps ran via ags launcher not tied to ags
