@@ -18,7 +18,7 @@ If you're going for a desktop set-up though, you are also most likely gonna want
 This AGS config is based on v1. As of Fedora 43 though, GNOME has been updated to a version that is no longer supported by AGS v1.
 This config will eventually have to be rewritten to comply with v3, but I'm employing a temporary fix at the moment.
 Making use of [NIX](https://github.com/DeterminateSystems/nix-installer) to provide an env with the proper dependencies for AGS v1 to keep working even under Fedora 43+ thanks to this custom [module](https://github.com/dtomvan/agsv1)
-For all functionality to work, any references to `ags` in `hyprland.conf` or keybinds will have to be updated to point to `agsv1` instead. (actually, hyprland fails to call it, and also system tray doesn't work, fill try to find a fix to those)
+For all functionality to work, any references to `ags` in `hyprland.conf` or keybinds will have to be updated to point to the new `agsv1` instead. (actually, hyprland fails to call it, and also system tray doesn't work ..sometimes? fill try to find a fix to those)
 
 
 Quick instructions:
