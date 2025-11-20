@@ -13,6 +13,21 @@ If you're going for a laptop set-up, you can just replicate the thonkpad config 
 
 If you're going for a desktop set-up though, you are also most likely gonna want to switch the layout for the keybinds in `hyprland.conf` from colemak-dh to the default one
 
+<details>
+<summary> ⚠️ Fedora 43+ updating to no longer supported GNOME version </summary>
+This AGS config is based on v1. As of Fedora 43 though, GNOME has been updated to a version that is no longer supported by AGS v1.
+This config will eventually have to be rewritten to comply with v3, but I'm employing a temporary fix at the moment.
+Making use of [NIX](https://github.com/DeterminateSystems/nix-installer) to provide an env with the proper dependencies for AGS v1 to keep working even under Fedora 43+ thanks to this custom [module](https://github.com/dtomvan/agsv1)
+For all functionality to work, any references to `ags` in `hyprland.conf` or keybinds will have to be updated to point to `agsv1` instead.
+
+Quick instructions:
+```sh
+curl -fsSL https://install.determinate.systems/nix | sh -s -- install --determinate
+nix profile install github:dtomvan/agsv1#legacyPackages.x86_64-linux.agsv1
+```
+
+</details>
+
 
 <details>
   
